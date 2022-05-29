@@ -1,0 +1,22 @@
+body {
+    font-family: cursive;
+    background-image: linear-gradient(red, lightcoral, white );
+}
+
+header {
+    color: lightcoral;
+    background-image: linear-gradient(lightgray, gray, black);
+    padding: 40px;
+}
+.link-header{
+    background-color: red;
+    color: white;
+    padding: 15px 20px 15px 20px;
+    border-radius: 25px;
+}
+
+footer {
+    background-color: lightsteelblue;
+display: flex;
+    justify-content: space-between;
+}
